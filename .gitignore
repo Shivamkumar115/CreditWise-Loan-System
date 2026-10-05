@@ -1,0 +1,12 @@
+*.csv
+*.xlsx
+*.xls
+*.json
+*.zip
+*.rar
+
+dataset/
+data/
+
+.ipynb_checkpoints/
+__pycache__/
